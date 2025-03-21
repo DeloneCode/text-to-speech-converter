@@ -15,7 +15,7 @@ A simple GUI application that converts text to speech and allows you to save the
 - Python 3.6 or higher
 - pyttsx3 library
 
-[![youtube-converter.png](https://i.postimg.cc/3RD1ThXn/youtube-converter.png)](https://postimg.cc/Q9h1QRnT)
+[![text2speech.png](https://i.postimg.cc/1XjmKYPb/text2speech.png)](https://postimg.cc/Fk0XrpYx)
 
 ## Installation
 
