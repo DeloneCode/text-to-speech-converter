@@ -15,6 +15,7 @@ A simple GUI application that converts text to speech and allows you to save the
 - Python 3.6 or higher
 - pyttsx3 library
 
+![text2speech](https://github.com/user-attachments/assets/e5c030d6-d9bb-4a53-a68e-c41b2ac67c60)
 
 ## Installation
 
