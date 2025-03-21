@@ -16,6 +16,7 @@ A simple GUI application that converts text to speech and allows you to save the
 - pyttsx3 library
 
 [![text2speech.gif](https://i.postimg.cc/FFBkpTP9/text2speech.gif)](https://postimg.cc/Lhjs63K7)
+
 ## Installation
 
 1. Clone or download this repository
